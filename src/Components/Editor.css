@@ -1,0 +1,25 @@
+.custom-editor {
+  border: 2px solid rgb(86, 81, 81);
+  padding: 10px;
+  margin: 10px;
+}
+
+.custom-editor .DraftEditor-root {
+  text-align: left; 
+}
+
+.custom-editor .DraftEditor-content {
+  padding: 0; 
+}
+
+.custom-editor .public-DraftEditorPlaceholder-root {
+  margin-left: 10px; 
+}
+
+.public-DraftStyleDefault-rtl .COLOR_RED {
+  color: red;
+}
+
+.COLOR_RED {
+  color: red;
+}

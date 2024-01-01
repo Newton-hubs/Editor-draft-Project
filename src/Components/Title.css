@@ -1,0 +1,27 @@
+.title-and-input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.name-input {
+  margin-left: 6px;
+}
+
+.name-input-field {
+  margin: 0;
+  margin-left: 1px;
+  display: inline-block;
+  border: none;
+  outline: none;
+  flex-grow: 1;
+}
+
+.name-input-field:focus {
+  border: none;
+}
+.h3-style {
+  font-size: 1.2em;
+  font-weight: bold;
+}
